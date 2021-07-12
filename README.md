@@ -52,7 +52,7 @@ O CSS Grid Layout é uma nova especificação do CSS e ela veio para resolver pr
 
 #### Concluido :clipboard:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_flexbox-origamid/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_grid_layout-origamid/).
 
 # 
 ## :unlock: Licença
