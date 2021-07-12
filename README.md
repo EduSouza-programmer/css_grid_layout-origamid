@@ -45,7 +45,7 @@ O CSS Grid Layout é uma nova especificação do CSS e ela veio para resolver pr
 
 <p align=center >
   <img height="230px"  src="./img/home_desktop.png"> &nbsp; &nbsp; 
-  <img height="250px" src="./img/mobile.png">
+  <img height="240px" src="./img/mobile.png">
 </p>
 
 ## :postbox: Entrega
