@@ -29,9 +29,12 @@
 
 <p align="center">
   <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
-  <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#postbox-Entrega">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
+
+<br/>
 
 ## :rocket: Sobre o curso
 
@@ -48,9 +51,24 @@ O CSS Grid Layout é uma nova especificação do CSS e ela veio para resolver pr
   <img height="235px" src="./img/mobile.png">
 </p>
 
+<br/>
+
+## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+<table >
+  <tr>
+    <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>HTML</div><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="40px" /></a></td>
+      <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><div>CSS</div><img src="https://img.icons8.com/color/96/000000/css3.png" height="40px" /></a> </td>
+  </tr>
+</table>
+
+<br/>
+
 ## :postbox: Entrega
 
-#### Concluido :clipboard:
+#### Concluído :clipboard:
 
 Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_grid_layout-origamid/).
 
